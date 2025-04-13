@@ -1,1 +1,1 @@
-# FlappyBird
+Flappy Bird 2D is a simple, addictive arcade game created in Unity. Players control a bird to navigate through pipes, tapping to flap and avoid obstacles. With smooth physics, animations, and a basic scoring system, it’s an engaging endless runner. A great project for learning Unity game development basics.
